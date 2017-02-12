@@ -1,0 +1,20 @@
+Made exclusively by Garret Moran.
+
+Originally done as a flash game, I remade this simple platformer using XNA and added some neat visual touches.
+The core mechanic lies in that the player will not fall upon stepping off a ledge unless they jump.
+French translation more than likely provided by Google translate. Je suis désolé if it's horribly wrong.
+
+CONTROLS
+=================
+This game uses keyboard controls.
+
+Press P at any time to Pause.
+Use Left and Right Arrow keys to Move.
+Press Up Arrow key to jump.
+Don't press Up to Not Jump.
+
+CREDITS:
+=================
+All coding by Garret Moran
+Art also by Garret Moran
+All songs by Magnus "Souleye" Palsson for the game "VVVVVV"

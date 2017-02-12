@@ -1,0 +1,26 @@
+Made in a team of several people.
+
+A 4-player game about alien farmers fighting over flat planets and cutting out sections for themselves.
+Plant stakes into the ground in order to cut a line in the game field. 
+Making a full shape of cut lines will cause the cut section to fall out and award points to the team that made the last cut.
+Cut enemy players out of the map to eliminate them and score more points.
+The farther you are from a planted stake the slower your character moves.
+Players can also plant a crop that will slowly spread across the map. Cutting some of the plants out nets extra points.
+Cutting the plant source out will stop the plant from continuing to spread.
+Dash into other players to make them drop their stake. Powerups fall as meterors, cut them out to collect them.
+
+CONTROLS:
+===================
+GAMEPAD IS NEEDED TO NAVIGATE MENU
+
+One player can use keyboard, but others will need gamepad controllers (xbox etc).
+Intended to be played 2 v 2.
+
+Full controls menu in-game.
+===================
+CREDITS:
+===================
+Programmers: Garret Moran, Erika Anderson, & David Hartman
+Designers: Donovan Violette & James Korin
+Artists: Amanda Deep, Caitlyn Kenney, Madeleine Bouchie
+Producer: Benjamin Lander

@@ -1,0 +1,35 @@
+Made by myself (Garret Moran) and Tony Libardi (both of us programmers).
+
+Synopsis: A 2-player game where one person controls Pacman and the other controls 2 ghosts at once.
+Clyde is CPU controlled (moving randomly). He counts as being on the ghosts' team. 
+Ghosts try to corner Pacman to defeat him. Pacman can turn the tables by grabbing a power pellet.
+While powered, ghosts move slower and Pacman can eat them. 
+
+Pacman can screenwrap but ghosts cannot (except Clyde).
+Last team standing wins.
+
+Game can be exited via pause menu and upon re-opening will resume where the match left off (Save and Exit).
+
+
+CONTROLS:
+===========================
+GHOST PLAYER:
+Inky (blue ghost): WASD
+
+Pinky (pink ghost): YGHJ
+
+Clyde (orange ghost): Controls himself
+
+
+PACMAN PLAYER:
+Arrow Keys
+
+OTHER:
+Esc - pause
+F1 - Show FPS
+==========================
+CREDITS:
+==========================
+music: originally from Super Smash Bros. for Wii U by Nintendo (remixed from pacman by namco)
+art: made by Tony Libardi
+code etc: Garret Moran & Tony Libardi
