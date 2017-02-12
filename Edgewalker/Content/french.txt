@@ -1,0 +1,45 @@
+Edgewalker
+MAIN MENU
+[ G ] - Debut jeu
+[ Z ] - Credits
+[ C ] - Controle
+[ O ] - Options
+[ Q ] - Quitter
+CREDITS
+Nuclear Kitten Divertissement
+Un jeu de Garret Moran
+Toutes les chansons:
+"Predestined Fate"
+"Pressure Cooker"
+"Presenting VVVVVV"
+et "Popular Potpourri"
+par Magnus "Souleye" Palsson
+pour le jeu "VVVVVV"
+
+[ M ] - Retour au menu
+COMMANDES
+Appuyez sur P pour pause.
+Utilisez la gauche et droite
+touches flechees pour deplacer.
+Appuyez sur Haut pour sauter
+Ne appuyez pas a pas sauter
+
+[ M ] - Retour au menu
+PAUSE
+[ G ] - Retour au jeu
+[ M ] - Quitter au menu principal
+OPTIONS
+[ L ] - Langue
+[ S ] - Son On / Off
+[ M ] - Retour au menu
+LANGUE
+[ E ] - English
+[ F ] - Francais
+
+Niveau 1: Appuyez sur haut pour sauter
+Niveau 2: Ne appuyez pas a pas sauter
+Niveau 3: Traversee echelle
+Niveau 4: Le piege
+Niveau 5: Roundabout
+Niveau ?: Evasion
+Niveau ?: Pris au piege

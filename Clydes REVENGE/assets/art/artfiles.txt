@@ -1,0 +1,2 @@
+MAIN_SHEET=pacman.png
+PELLET_SHEET=pellet.png

@@ -1,0 +1,45 @@
+Edgewalker
+MAIN MENU
+[ G ] - Start Game
+[ Z ] - Credits
+[ C ] - Controls
+[ O ] - Options
+[ Q ] - Quit
+CREDITS
+Nuclear Kitten Entertainment
+A Game by Garret Moran
+All songs:
+"Predestined Fate"
+"Pressure Cooker"
+"Presenting VVVVVV"
+and "Popular Potpourri"
+by Magnus "Souleye" Palsson
+for the game "VVVVVV"
+
+[ M ] - Back to Menu
+CONTROLS
+Press P at any time to pause.
+Use the Left and Right
+Arrow Keys to move.
+Press Up To Jump.
+Don't press up to Not Jump.
+
+[ M ] - Back to Menu
+PAUSED
+[ G ] - Back to Game
+[ M ] - Quit to Main menu
+OPTIONS
+[ L ] - Language
+[ S ] - Sound On/Off
+[ M ] - Back to Menu
+LANGUAGE
+[ E ] - English
+[ F ] - Francais
+
+Level 1: Press up to jump
+Level 2: DON'T press up to NOT jump
+Level 3: Bisected ladder
+Level 4: The trap
+Level 5: Roundabout
+Level ?: Escape
+Level ?: Ensnared

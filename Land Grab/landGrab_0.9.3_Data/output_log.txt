@@ -1,0 +1,117 @@
+Initialize engine version: 5.3.4f1 (fdbb5133b820)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 970M (ID=0x13d8)
+    Vendor:   NVIDIA
+    VRAM:     3040 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Files\Desktop\build_0.9.3\landGrab_0.9.3_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Files\Desktop\build_0.9.3\landGrab_0.9.3_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Files\Desktop\build_0.9.3\landGrab_0.9.3_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\Files\Desktop\build_0.9.3\landGrab_0.9.3_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Files\Desktop\build_0.9.3\landGrab_0.9.3_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Files\Desktop\build_0.9.3\landGrab_0.9.3_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Files\Desktop\build_0.9.3\landGrab_0.9.3_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Files\Desktop\build_0.9.3\landGrab_0.9.3_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Files\Desktop\build_0.9.3\landGrab_0.9.3_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Files\Desktop\build_0.9.3\landGrab_0.9.3_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Files\Desktop\build_0.9.3\landGrab_0.9.3_Data\Managed\XInputDotNetPure.dll (this message is harmless)
+Loading D:\Files\Desktop\build_0.9.3\landGrab_0.9.3_Data\Managed\XInputDotNetPure.dll into Unity Child Domain
+Platform assembly: D:\Files\Desktop\build_0.9.3\landGrab_0.9.3_Data\Managed\XInputDotNetPure.dll (this message is harmless)
+Loading D:\Files\Desktop\build_0.9.3\landGrab_0.9.3_Data\Managed\XInputDotNetPure.dll into Unity Child Domain
+- Completed reload, in  0.153 seconds
+Platform assembly: D:\Files\Desktop\build_0.9.3\landGrab_0.9.3_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Files\Desktop\build_0.9.3\landGrab_0.9.3_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 14.211160 ms
+UI updater awake
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+join box awake
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+join box awake
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+join box awake
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+join box awake
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+input manager: MenuCanvas(Clone) (InputManager)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+init controller input - controller 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+init keyboard input
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+init null input
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+init null input
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+initialized game
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+canvas manager change to MainMenu
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 3cec -> priority: 1 
+  Thread -> id: 14d0 -> priority: 1 
+pathing ToTeamSelect
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+canvas manager change to TeamSelectScreen
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+canvas manager change to MainMenu
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+pathing ToControls
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+canvas manager change to ControlsScreen
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+pathing ToMain
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+canvas manager change to MainMenu
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+pathing Exit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+quit game
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
